@@ -15,13 +15,13 @@ specialLink.addEventListener("click", (event) => {
   if (clickCount >= 200) {
     encourage.innerHTML = "Making some progress...";
   }
-  if (clickCount >= 500) {
+  if (clickCount >= 400) {
     encourage.innerHTML = "Are you tired of clicking yet?";
   }
-  if (clickCount >= 600) {
+  if (clickCount >= 500) {
     encourage.innerHTML = "At least you're not playing anymore games";
   }
-  if (clickCount >= 650) {
+  if (clickCount >= 600) {
     encourage.innerHTML =
       "Well, this is kind of a game.  Like Cookie Clicker, but no cookies";
   }
