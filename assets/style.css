@@ -49,6 +49,15 @@ h2 {
   color: #fff;
 }
 
+h3 {
+  font-size: 2rem;
+  color: #fff;
+}
+
+#encourage {
+  text-transform: none;
+}
+
 .cold {
   background-color: blue;
 }
@@ -77,5 +86,5 @@ h2 {
 }
 
 .lvl3 {
-    display: grid;
+  display: grid;
 }
